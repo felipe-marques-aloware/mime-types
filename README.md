@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```php
-composer require magyarjeti/mime-types
+composer require felipe-marques-aloware/mime-types
 ```
 
 Usage
